@@ -71,13 +71,13 @@ In conclusion, the ER diagram successfully models a structured and well-organize
 
 ### ER Diagram
 
-![alt text](image.png)
+![alt text](images/image.png)
 
-## **Database**
+## Database
 
 The database for this Expense Tracker application is designed using **SQLite**, ensuring efficient data storage, integrity, and retrieval. The schema follows the principles of relational database design and is **normalized** to reduce data redundancy and maintain consistency.
 
-### **Normalization of the Database**
+### Normalization of the Database
 
 Normalization is a database design process that structures tables to minimize redundancy and dependency. This project follows **Third Normal Form (3NF)** to ensure efficiency and data integrity. Below is an analysis of how the database adheres to different normal forms.
 
@@ -346,15 +346,15 @@ Following these steps ensures a **secure, efficient, and well-structured** conne
 
 ## Output Screenshots
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
 ## [Sample code](https://github.com/leahtara/DBMS-Expense-Tracker-Streamlit.git)
 
