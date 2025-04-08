@@ -71,7 +71,8 @@ In conclusion, the ER diagram successfully models a structured and well-organize
 
 ### ER Diagram
 
-![alt text](images/image.png)
+![image](https://github.com/user-attachments/assets/b45e3e09-e7aa-4581-bbfa-9720624821f6)
+
 
 ## Database
 
